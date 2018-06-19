@@ -1,6 +1,6 @@
 version: build{build}
 image: Visual Studio 2017
-clone_folder: clone_folder: C:\INTECH-World\ITest-Projects\ITest-Framework
+clone_folder: C:\INTECH-World\ITest-Projects\ITest-Framework
 
 branches:
   only:
